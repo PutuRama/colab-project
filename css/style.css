@@ -11,6 +11,7 @@ nav{
 }
 .navbar{
   display: flex;
+  z-index: 1;
   justify-content: space-around;
   background-color:black;
   padding: 15px;
@@ -19,9 +20,11 @@ nav{
   left: 0;
   top: 0;
   right: 0;
+  box-shadow: 0px 0px 10px 0px;
 }
 .navbar h2{
-  color: white;
+  color: rgb(246, 139, 25);
+  box-shadow: 0px 1px;
 }
 .navbar ul li{
   display: inline-block;
@@ -40,13 +43,42 @@ nav{
 
 
 #home{
-  color: blue;
-  background-color: red;
-  display: inline-block;
-  position: absolute;
-  top: 9.2%;  
+  height: 730px;
+  color: blue; 
+  background-image: url(../img/school.jpg);
+  background-size: cover;
+  background-repeat: space;
+}
+.description{
+  position: relative;
+  top: 70%;
+}
+/* .description img{
+  position: relative;
+  width: 25%;
+  left: 35%;
+} */
+.description h1{
+  font-family: ACETONE;
+  font-size: 3rem;
+  color: white;
+  text-indent: 10%;
+}
+.arrow a .fa-solid{
+  color: white;
+  font-size: 5pc;
+  position: relative;
+  margin-top: 80px;
+  left: 50%;
+}
+.arrow a .fa-solid:hover{
+  transition: 0.4s;
+  font-size: 6pc;
+  position: relative;
+  margin-top: 80px;
+  left: 49%;
 }
 
-.description h2{
-  
+#about h2{
+  margin-top: 30%;
 }
