@@ -106,23 +106,23 @@ Tersedia di:
 <img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/AdGuard_Logo.png" width="200" height="200" />
 
 ### Alamat DNS
-#### - Standard
+#### - Default
 | Command | Description |
 | --- | --- |
-| `TLS` | 1dot1dot1dot1.cloudflare-dns.com |
-| `HTTPS` | https://dns.cloudflare.com/dns-query |
-| `DNS, IPv4` | [1.1.1.1 dan 1.0.0.1]() |
+| `TLS` | dns.adguard.com |
+| `HTTPS` | dns.adguard.com/dns-query |
+| `DNS, IPv4` | [94.140.15.15 dan 94.140.15.15]() |
 
-#### - Malware Blocking
+#### - Family Protection
 | Command | Description |
 | --- | --- |
-| `TLS` | security.cloudflare-dns.com |
-| `HTTPS` |  https://security.cloudflare-dns.com/dns-query |
-| `DNS, IPv4` | [1.1.1.2 dan 1.0.0.2]() |
+| `TLS` | dns-family.adguard.com |
+| `HTTPS` |  https://dns-family.adguard.com/dns-query |
+| `DNS, IPv4` | [94.140.14.15 dan 94.140.15.16]() |
 
-#### - Malware dan Konten Dewasa
+#### - Non-filtering
 | Command | Description |
 | --- | --- |
-| `TLS` | family.cloudflare-dns.com |
-| `HTTPS` |  https://family.cloudflare-dns.com/dns-query |
-| `DNS, IPv4` | [1.1.1.3 dan 1.0.0.3]() |
+| `TLS` | dns-unfiltered.adguard.com |
+| `HTTPS` |  https://dns-unfiltered.adguard.com/dns-query |
+| `DNS, IPv4` | [94.140.14.140 dan 94.140.14.141]() |
