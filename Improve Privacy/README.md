@@ -19,7 +19,7 @@ Dibawah Ini Beberapa Tools Yang Dapat Mengamankan Privacy Kita
 
 # Browser
 ## - Firefox
-![](https://upload.wikimedia.org/wikipedia/commons/6/66/Firefox_logo.png)
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/Firefox_logo.png" width="200" height="200" />
 Tersedia di:
 - [Android]()
 - [iOS]()
