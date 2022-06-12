@@ -126,3 +126,31 @@ Tersedia di:
 | `TLS` | dns-unfiltered.adguard.com |
 | `HTTPS` |  https://dns-unfiltered.adguard.com/dns-query |
 | `DNS, IPv4` | [94.140.14.140 dan 94.140.14.141]() |
+
+# Quad9
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/AdGuard_Logo.png" width="200" height="200" />
+
+### Alamat DNS
+#### - Default
+| Command | Description |
+| --- | --- |
+| `TLS` | dns.adguard.com |
+| `HTTPS` | dns.adguard.com/dns-query |
+| `DNS, IPv4` | [94.140.15.15 dan 94.140.15.15]() |
+
+#### - Family Protection
+| Command | Description |
+| --- | --- |
+| `TLS` | dns-family.adguard.com |
+| `HTTPS` |  https://dns-family.adguard.com/dns-query |
+| `DNS, IPv4` | [94.140.14.15 dan 94.140.15.16]() |
+
+#### - Non-filtering
+| Command | Description |
+| --- | --- |
+| `TLS` | dns-unfiltered.adguard.com |
+| `HTTPS` |  https://dns-unfiltered.adguard.com/dns-query |
+| `DNS, IPv4` | [94.140.14.140 dan 94.140.14.141]() |
+
+# Adguard DNS
+![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Quad9_logo.svg)
