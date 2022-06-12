@@ -78,7 +78,7 @@ Tersedia di:
 
 # Penyedia Layanan DNS
 ## Cloudflare DNS
-![](https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png)
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Cloudflare_Logo.png" width="200" height="200" />
 
 ### Alamat DNS
 #### - Standard
