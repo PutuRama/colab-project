@@ -69,7 +69,6 @@ Tersedia di:
 - [Edge]()
 - [Opera]()
 
-
 ### ClearURLs
 <img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/ClearURLs_Logo.png" width="200" height="200" />
 
