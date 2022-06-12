@@ -110,7 +110,7 @@ Tersedia di:
 | Command | Description |
 | --- | --- |
 | `TLS` | [dns.adguard.com]() |
-| `HTTPS` | dns.adguard.com/dns-query |
+| `HTTPS` | https://dns.adguard.com/dns-query |
 | `DNS, IPv4` | [94.140.15.15 dan 94.140.15.15]() |
 
 #### - Family Protection
