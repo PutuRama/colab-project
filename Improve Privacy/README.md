@@ -60,7 +60,7 @@ Tersedia di:
 - [Opera]()
 
 ## HTTPS EVERYWHERE
-<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/HTTPSEVERYWHERE_Logo.png" width="200" height="600" />
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/HTTPSEVERYWHERE_Logo.png" width="600" height="200" />
 
 Tersedia di:
 - [Firefox]()
