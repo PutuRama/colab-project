@@ -29,7 +29,7 @@ Tersedia di:
 
 
 ## Brave
-![](https://upload.wikimedia.org/wikipedia/commons/1/1e/Brave_icon_app.png)
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/Brave_Logo.png" width="200" height="200" />
 
 Tersedia di:
 - [Android]()
@@ -39,7 +39,7 @@ Tersedia di:
 - [Linux]()
 
 ## TOR
-![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg)
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/TOR_Logo.svg" width="200" height="200" />
 
 Tersedia di:
 - [Android]()
@@ -50,7 +50,7 @@ Tersedia di:
 # Ekstensi Browser
 
 ## uBlock Origin
-![](https://upload.wikimedia.org/wikipedia/commons/0/05/UBlock_Origin.svg)
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/uBlockOrigin_Logo.svg" width="200" height="200" />
 
 Tersedia di:
 - [Firefox]()
@@ -59,8 +59,8 @@ Tersedia di:
 - [Edge]()
 - [Opera]()
 
-## HTTPS
-![](https://upload.wikimedia.org/wikipedia/commons/1/10/Https-everywhere-banner.png)
+## HTTPS EVERYWHERE
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/HTTPSEVERYWHERE_Logo.png" width="200" height="200" />
 
 Tersedia di:
 - [Firefox]()
@@ -69,7 +69,7 @@ Tersedia di:
 - [Opera]()
 
 ### ClearURLs
-![](https://gitlab.com/uploads/-/system/group/avatar/8943985/clearurls.png)
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/ClearURLs_Logo.png" width="200" height="200" />
 
 Tersedia di:
 - [Firefox]()
