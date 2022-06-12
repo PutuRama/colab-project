@@ -103,7 +103,7 @@ Tersedia di:
 | `DNS, IPv4` | [1.1.1.3 dan 1.0.0.3]() |
 
 # Adguard DNS
-<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/AdGuard_Logo.png" width="200" height="200" />
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/AdGuard_Logo.png" width="200" height="200" />
 
 ### Alamat DNS
 #### - Standard
