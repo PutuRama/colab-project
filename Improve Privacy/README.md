@@ -131,23 +131,23 @@ Tersedia di:
 <img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/Quad9_Logo.svg" width="600" height="200" />
 
 ### Alamat DNS
-#### - Default
+#### - Standard
 | Command | Description |
 | --- | --- |
-| `TLS` | dns.adguard.com |
-| `HTTPS` | dns.adguard.com/dns-query |
-| `DNS, IPv4` | [94.140.15.15 dan 94.140.15.15]() |
+| `TLS` | dns.quad9.net |
+| `HTTPS` | https://dns.quad9.net/dns-query |
+| `DNS, IPv4` | [9.9.9.9 dan 149.112.112.112]() |
 
-#### - Family Protection
+#### - Unsecured
 | Command | Description |
 | --- | --- |
-| `TLS` | dns-family.adguard.com |
-| `HTTPS` |  https://dns-family.adguard.com/dns-query |
-| `DNS, IPv4` | [94.140.14.15 dan 94.140.15.16]() |
+| `TLS` | dns10.quad9.net |
+| `HTTPS` |  https://dns10.quad9.net/dns-query |
+| `DNS, IPv4` | [9.9.9.10 dan 149.112.112.10]() |
 
-#### - Non-filtering
+#### - ECS support
 | Command | Description |
 | --- | --- |
-| `TLS` | dns-unfiltered.adguard.com |
-| `HTTPS` |  https://dns-unfiltered.adguard.com/dns-query |
-| `DNS, IPv4` | [94.140.14.140 dan 94.140.14.141]() |
+| `TLS` | dns11.quad9.net |
+| `HTTPS` |  https://dns11.quad9.net/dns-query |
+| `DNS, IPv4` | [9.9.9.11 dan 149.112.112.11]() |
