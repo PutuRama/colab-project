@@ -29,7 +29,7 @@ Tersedia di:
 
 
 ## Brave
-<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/Brave_Logo.png" width="600" height="100" />
+<img src="https://github.com/PutuRama/colab-project/blob/Shihoko/Improve%20Privacy/Logo/Brave_Logo.png" width="600" height="200" />
 
 Tersedia di:
 - [Android]()
