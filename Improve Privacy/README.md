@@ -85,21 +85,21 @@ Tersedia di:
 #### - Standard
 | Command | Description |
 | --- | --- |
-| `TLS` | 1dot1dot1dot1.cloudflare-dns.com |
+| `TLS` | [1dot1dot1dot1.cloudflare-dns.com]() |
 | `HTTPS` | https://dns.cloudflare.com/dns-query |
 | `DNS, IPv4` | [1.1.1.1 dan 1.0.0.1]() |
 
 #### - Malware Blocking
 | Command | Description |
 | --- | --- |
-| `TLS` | security.cloudflare-dns.com |
+| `TLS` | [security.cloudflare-dns.com]() |
 | `HTTPS` |  https://security.cloudflare-dns.com/dns-query |
 | `DNS, IPv4` | [1.1.1.2 dan 1.0.0.2]() |
 
 #### - Malware dan Konten Dewasa
 | Command | Description |
 | --- | --- |
-| `TLS` | family.cloudflare-dns.com |
+| `TLS` | [family.cloudflare-dns.com]() |
 | `HTTPS` |  https://family.cloudflare-dns.com/dns-query |
 | `DNS, IPv4` | [1.1.1.3 dan 1.0.0.3]() |
 
@@ -110,21 +110,21 @@ Tersedia di:
 #### - Default
 | Command | Description |
 | --- | --- |
-| `TLS` | dns.adguard.com |
+| `TLS` | [dns.adguard.com]() |
 | `HTTPS` | dns.adguard.com/dns-query |
 | `DNS, IPv4` | [94.140.15.15 dan 94.140.15.15]() |
 
 #### - Family Protection
 | Command | Description |
 | --- | --- |
-| `TLS` | dns-family.adguard.com |
+| `TLS` | [dns-family.adguard.com]() |
 | `HTTPS` |  https://dns-family.adguard.com/dns-query |
 | `DNS, IPv4` | [94.140.14.15 dan 94.140.15.16]() |
 
 #### - Non-filtering
 | Command | Description |
 | --- | --- |
-| `TLS` | dns-unfiltered.adguard.com |
+| `TLS` | [dns-unfiltered.adguard.com]() |
 | `HTTPS` |  https://dns-unfiltered.adguard.com/dns-query |
 | `DNS, IPv4` | [94.140.14.140 dan 94.140.14.141]() |
 
@@ -135,14 +135,14 @@ Tersedia di:
 #### - Standard
 | Command | Description |
 | --- | --- |
-| `TLS` | dns.quad9.net |
+| `TLS` | [dns.quad9.net]() |
 | `HTTPS` | https://dns.quad9.net/dns-query |
 | `DNS, IPv4` | [9.9.9.9 dan 149.112.112.112]() |
 
 #### - Unsecured
 | Command | Description |
 | --- | --- |
-| `TLS` | dns10.quad9.net |
+| `TLS` | [dns10.quad9.net]() |
 | `HTTPS` |  https://dns10.quad9.net/dns-query |
 | `DNS, IPv4` | [9.9.9.10 dan 149.112.112.10]() |
 
