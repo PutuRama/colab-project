@@ -149,6 +149,6 @@ Tersedia di:
 #### - ECS support
 | Command | Description |
 | --- | --- |
-| `TLS` | [dns11.quad9.net] |
+| `TLS` | [dns11.quad9.net]() |
 | `HTTPS` |  https://dns11.quad9.net/dns-query |
 | `DNS, IPv4` | [9.9.9.11 dan 149.112.112.11]() |
