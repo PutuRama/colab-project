@@ -60,7 +60,14 @@ nav{
 } */
 .description h1{
   font-family: ACETONE;
+  color: white;
+  text-indent: 10%;
   font-size: 3rem;
+
+}
+.description h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 2rem;
   color: white;
   text-indent: 10%;
 }
@@ -81,4 +88,4 @@ nav{
 
 #about h2{
   margin-top: 30%;
-}
+}   
