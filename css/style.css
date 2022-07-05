@@ -86,6 +86,19 @@ nav{
   left: 49%;
 }
 
+
+#about{
+  font-family: sans-serif;
+}
 #about h2{
-  margin-top: 30%;
-}   
+  padding: 20px 0px 5px 0px;
+  border-bottom: 5px solid #e27b0d;
+  margin-bottom: 20px;
+  display: inline-block;
+  position: relative;
+  left: 45%;
+  right: 45%;
+}
+#about p{
+text-align: justify;
+}
