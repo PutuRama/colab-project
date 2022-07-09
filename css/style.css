@@ -72,23 +72,30 @@ nav{
   text-indent: 10%;
 }
 .arrow a .fa-solid{
+  display: inline-block;
   color: white;
   font-size: 5pc;
   position: relative;
-  margin-top: 80px;
+  margin-top: 20px;
   left: 50%;
 }
 .arrow a .fa-solid:hover{
+  display: inline-block;
   transition: 0.4s;
   font-size: 6pc;
   position: relative;
-  margin-top: 80px;
+  margin-top: 50px;
   left: 49%;
 }
 
 
 #about{
   font-family: sans-serif;
+}
+.about-other a{
+  display: flex;
+  
+  background-color: rgb(27, 25, 25);
 }
 #about h2{
   padding: 20px 0px 5px 0px;

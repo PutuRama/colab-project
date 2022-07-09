@@ -1,3 +1,9 @@
+
+
+
+
+
+//var efek ngetik
 const tagline = ['Educate' + " Children" + ' Making' + ' Useful' + ' for' + ' State', ''];
 let gone = 0;
 let numbering = 0;
@@ -5,8 +11,8 @@ let CurrentItem = '';
 let tag = '';
 
 
-//testing
-// document.querySelector('.typing-effect').innerHTML = length;
+
+//efek ngetik
 pop();
 function pop() {
   if (gone == tagline.length) {
